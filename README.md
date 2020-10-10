@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**ninjakx/ninjakx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kriti, a data science engineer with a passion for learning about technology and building a Data driven solution to solve real life problems. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Computer Vision, Full Stack.
+- 🌱 I’m currently learning about Advanced Computer vision Techniques.
+- 💬 Ask me about anything related to pandas, sql, python, machine learning and also free to discuss about anime/manga 😄
+- ⚡ Fun fact: 
+    - I am a technophile
+    - An avid anime watcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Profile Summary
+
+![summary](https://github-readme-stats.vercel.app/api?username=ninjakx&show_icons=true&theme=radical)
+    
+
