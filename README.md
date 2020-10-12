@@ -5,9 +5,6 @@ I am Kriti, a data science engineer with a passion for learning about technology
 - 🔭 I’m currently working on Computer Vision, Full Stack.
 - 🌱 I’m currently learning about Advanced Computer vision Techniques.
 - 💬 Ask me about anything related to pandas, sql, python, machine learning and also free to discuss about anime/manga 😄
-- ⚡ Fun fact: 
-    - I am a technophile
-    - An avid anime watcher
 
 
 ### Profile Summary
