@@ -15,6 +15,7 @@ I am Kriti, a data science engineer with a passion for learning about technology
 
 ![summary](https://github-readme-stats.vercel.app/api?username=ninjakx&show_icons=true&theme=radical)
 
+![summary2](https://github-profile-trophy.vercel.app/?username=ninjakx&theme=onedark)
 
 <p align="left"> 
 <a href="https://linkedin.com/in/kritisahu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="kritisahu" height="60" width="60" /></a>
