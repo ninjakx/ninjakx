@@ -34,6 +34,20 @@ I am Kriti, a data science engineer with a passion for learning about technology
     <li> Be good at ML, Feature Engineering and modelling. <img src="https://progress-bar.dev/55"> </li>
     <li> Learn Pyspark <img src="https://progress-bar.dev/0"> </li>
     <li> Open Source Contribution <img src="https://progress-bar.dev/20"> </li>
-    <li> Learn Memory Optimization and OS System <img src="https://progress-bar.dev/10"> </li>
-    <li> Learn Model Deployment using AWS <img src="https://progress-bar.dev/30"> </li>
+    <li> Learn about Memory Optimization and OS System <img src="https://progress-bar.dev/10"> </li>
+    <li> Learn about Model Deployment using AWS <img src="https://progress-bar.dev/30"> </li>
 </details>
+
+<details>
+<summary>Projects Ideas</summary>
+These are some of the projects I am interested in/working at:
+
+- Character Person Tagging System for movies:
+I have hard time in keeping the names in my mind. I want to automate this process by allowing it to scrap all the images of the characters from the google image api and then train a face detection model on those data. On video stream It will show me the name on the screen after detecting the characters.
+
+- Creating notes from Handstyle teaching on black/white screen.
+
+- Using AI to reduce the gap between parents and their kids.
+</details>
+
+
