@@ -8,8 +8,6 @@ I am Kriti, a data science engineer with a passion for learning about technology
 - 💬 Ask me about anything related to pandas, sql, python, machine learning and also free to discuss about anime/manga 😄
 
 
-
-
 ### Profile Summary
 
 ![summary](https://github-readme-stats.vercel.app/api?username=ninjakx&show_icons=true&theme=radical)
@@ -40,7 +38,7 @@ I am Kriti, a data science engineer with a passion for learning about technology
 
 <details>
 <summary>Projects Ideas</summary>
-These are some of the projects I am interested in/working at:
+These are some of the projects I am interested in/working on:
 
 - Character Person Tagging System for movies:
 I have hard time in keeping the names in my mind. I want to automate this process by allowing it to scrap all the images of the characters from the google image api and then train a face detection model on those data. On video stream It will show me the name on the screen after detecting the characters.
@@ -50,4 +48,4 @@ I have hard time in keeping the names in my mind. I want to automate this proces
 - Using AI to reduce the gap between parents and their kids.
 </details>
 
-
+![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&languages=1&introduction=1&gists=1&lines=1&achievements=1&pagespeed=1&stackoverflow=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fninjakx.github.io%2F&pagespeed.detailed=false&pagespeed.screenshot=true&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FKolkata&config.twemoji=true)
