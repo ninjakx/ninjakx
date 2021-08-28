@@ -1,4 +1,8 @@
 ### Hi there 👋 
+
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjakx" alt="ninjakx" /> </p>
 
 I am Kriti, a data science engineer with a passion for learning about technology and building a Data driven solution to solve real life problems. 
@@ -48,4 +52,6 @@ I have hard time in keeping the names in my mind. I want to automate this proces
 - Using AI to reduce the gap between parents and their kids.
 </details>
 
-![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&languages=1&introduction=1&gists=1&lines=1&achievements=1&pagespeed=1&stackoverflow=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fninjakx.github.io%2F&pagespeed.detailed=false&pagespeed.screenshot=true&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FKolkata&config.twemoji=true)
+![Metrics](https://github.com/ninjakx/ninjakx/blob/main/metrics.svg)
+<!-- ![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&languages=1&introduction=1&gists=1&lines=1&achievements=1&pagespeed=1&stackoverflow=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fninjakx.github.io%2F&pagespeed.detailed=false&pagespeed.screenshot=true&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FKolkata&config.twemoji=true)
+ -->
