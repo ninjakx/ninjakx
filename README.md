@@ -19,10 +19,18 @@ I am Kriti, a data science engineer with a passion for learning about technology
 <!-- ![summary2](https://github-profile-trophy.vercel.app/?username=ninjakx&theme=onedark) -->
 
 <p align="left"> 
-<a href="https://linkedin.com/in/kritisahu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="kritisahu" height="45" width="45" /></a>
+<!-- <a href="https://linkedin.com/in/kritisahu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="kritisahu" height="45" width="45" /></a>
 <a href="https://stackoverflow.com/users/6660373/pygirl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="pygirl" height="60" width="60" /></a>
 <a href="https://www.hackerrank.com/Ninja_kx" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="Ninja_kx" height="60" width="60" /></a>
-<a href="https://ninjakx.github.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1200px-Blogger.svg.png" alt="ninjakx.github.io" height="45" width="45" /></a>
+<a href="https://ninjakx.github.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1200px-Blogger.svg.png" alt="ninjakx.github.io" height="45" width="45" /></a> -->
+     
+ 
+<p align="center">
+  <a target="_blank"href="https://linkedin.com/in/kritisahu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kritisahu26@gmail.com?subject=Hello%20NKX,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/6660373/pygirl/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/Ninja_kx"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ninjakx.github.io/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
      
 <h2 align="center">  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/male-technologist_1f468-200d-1f4bb.png" height="20"> Tech Stack</h2>
@@ -43,11 +51,11 @@ I am Kriti, a data science engineer with a passion for learning about technology
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />&nbsp;&nbsp;
-     
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />&nbsp;&nbsp;    
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <details>
@@ -78,7 +86,7 @@ I have hard time in keeping the names in my mind. I want to automate this proces
 
 <details>
 
-<summary>:shipit: Detailed Glimpse of my Profile</summary>
+<summary>:shipit: A Detailed Glimpse of my Profile</summary>
      
 
 ![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&repositories.forks=true&commits.authoring=ninjakx&languages=1&introduction=1&isocalendar=1&lines=1&achievements=1&stackoverflow=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories%2C%20user&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta&config.display=large)
