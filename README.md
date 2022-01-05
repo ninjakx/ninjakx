@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjakx" alt="ninjakx" /> </p>
 
-I am Kriti, a passionate engineer with a passion for learning about technology and building an enterprise-level solution to solve real life problems. 
+I am Kriti, an avid learner and engineer with a passion for learning about technology and building an enterprise-level solution to solve real life problems. 
 
 <!-- - 🌱 I’m currently learning about other Tech Stack. -->
 - 📫 How to reach me **kritisahu26@gmail.com**
