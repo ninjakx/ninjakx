@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjakx" alt="ninjakx" /> </p>
 
-I am Kriti, a data science engineer with a passion for learning about technology and building a Data driven solution to solve real life problems. 
+I am Kriti, a passionate engineer with a passion for learning about technology and building an enterprise-level solution to solve real life problems. 
 
-- 🌱 I’m currently learning about ML, CV.
+<!-- - 🌱 I’m currently learning about other Tech Stack. -->
 - 📫 How to reach me **kritisahu26@gmail.com**
-- 💬 Ask me about anything related to pandas, sql, python, machine learning and also free to discuss about anime/manga 😄
+- 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
 
 
 ### Profile Summary
