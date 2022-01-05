@@ -62,7 +62,7 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 <summary>Current Goals</summary>
     <li> Learn Pandas <img src="https://progress-bar.dev/75"> </li>
     <li> Learn OOPS in C++ <img src="https://progress-bar.dev/60"> </li>
-    <li> Be good at Data Structure and Algorithm <img src="https://progress-bar.dev/30"> </li>
+    <li> Be good at Data Structure and Algorithm <img src="https://progress-bar.dev/60"> </li>
 <!--     <li> Fundamental of Computer vision(detection, segmentation and optimization technique) + Understanding of few of the reasearch papers in depth <img src="https://progress-bar.dev/60"> </li> -->
     <li> Learn Statistcs(Intermediate) and work on some of its practical use cases <img src="https://progress-bar.dev/30"> </li>
 <!--     <li> Be good at ML, Feature Engineering and modelling. <img src="https://progress-bar.dev/55"> </li> -->
