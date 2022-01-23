@@ -7,10 +7,11 @@
 
 I am Kriti, an avid learner and engineer with a passion for learning about technology and building an enterprise-level solution to solve real life problems. 
 
+
 <!-- - 🌱 I’m currently learning about other Tech Stack. -->
 - 📫 How to reach me **kritisahu26@gmail.com**
 - 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
-
+- Currently learning DSA and system design.
 
 ### Profile Summary
 
