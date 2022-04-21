@@ -67,10 +67,10 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_user: nkx
           
-#         =============== TOPIC ==============
-          filename: metrics.plugin.topics.icons.svg
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+# #         =============== TOPIC ==============
+#           filename: metrics.plugin.topics.icons.svg
+#           plugin_topics: yes
+#           plugin_topics_limit: 0
+#           plugin_topics_mode: icons
           
           config_padding: 0%
