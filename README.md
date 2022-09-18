@@ -97,3 +97,5 @@ I have hard time in keeping the names in my mind. I want to automate this proces
  -->
      
 </details> 
+
+<a href="https://www.buymeacoffee.com/ninjakx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>••••••••••••••••••
