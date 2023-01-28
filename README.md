@@ -65,16 +65,19 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 
 <details>
 <summary>Current Goals</summary>
-    <li> Learn Pandas <img src="https://progress-bar.dev/75"> </li>
-    <li> Learn OOPS in C++ <img src="https://progress-bar.dev/60"> </li>
+<!--     <li> Learn Pandas <img src="https://progress-bar.dev/75"> </li> -->
+<!--     <li> Learn OOPS in C++ <img src="https://progress-bar.dev/60"> </li> -->
     <li> Be good at Data Structure and Algorithm <img src="https://progress-bar.dev/60"> </li>
 <!--     <li> Fundamental of Computer vision(detection, segmentation and optimization technique) + Understanding of few of the reasearch papers in depth <img src="https://progress-bar.dev/60"> </li> -->
-    <li> Learn Statistcs(Intermediate) and work on some of its practical use cases <img src="https://progress-bar.dev/30"> </li>
+<!--     <li> Learn Statistcs(Intermediate) and work on some of its practical use cases <img src="https://progress-bar.dev/30"> </li> -->
 <!--     <li> Be good at ML, Feature Engineering and modelling. <img src="https://progress-bar.dev/55"> </li> -->
-    <li> Learn Pyspark <img src="https://progress-bar.dev/0"> </li>
+<!--     <li> Learn Pyspark <img src="https://progress-bar.dev/0"> </li> -->
     <li> Open Source Contribution <img src="https://progress-bar.dev/20"> </li>
     <li> Learn about Memory Optimization and OS System <img src="https://progress-bar.dev/10"> </li>
-    <li> Learn AWS <img src="https://progress-bar.dev/30"> </li>
+    <li> Good grip on LLD <img src="https://progress-bar.dev/20"> </li>
+    <li> Good grip on HLD <img src="https://progress-bar.dev/10"> </li>
+
+<!--     <li> Learn AWS <img src="https://progress-bar.dev/30"> </li> -->
 </details>
 <!-- 
 <details>
