@@ -1,10 +1,9 @@
 ### Hi there 👋 
 
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjakx" alt="ninjakx" /> </p>
-
+<img src="https://cats.bewin24.com/wp-content/uploads/2019/09/maxresdefault-40.jpg" width="270" height="200"/>
 I am Kriti, an avid learner and engineer with a passion for learning about technology and building an enterprise-level solution to solve real life problems. 
 
 
@@ -12,6 +11,16 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 - 📫 How to reach me **kritisahu26@gmail.com**
 - 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
 - Currently learning DSA and system design.
+
+Gotta study harder. Need to be purrfect.
+<!-- ![](https://i.pinimg.com/originals/1b/43/dd/1b43dd19b6358ceea4a89e6a5d9cd1af.gif) | ![](https://media.tenor.com/SXGYbcjqv58AAAAd/cat-typing.gif) -->
+
+<p float="left">
+  <img src="https://i.pinimg.com/originals/1b/43/dd/1b43dd19b6358ceea4a89e6a5d9cd1af.gif" width="300" height="300"/>
+  <img src="https://media.tenor.com/SXGYbcjqv58AAAAd/cat-typing.gif" width="500" height="300" /> 
+</p>
+
+Motto: Work Hard, Cry Later
 
 ### Profile Summary
 
