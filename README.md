@@ -12,13 +12,13 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 - 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
 - Currently learning DSA and system design.
 
-Some of the Active deployed Projects:
 
-Django Based Project for Checking the AQP
+$${\color{red}Some \space of \space the \space \color{lightblue}active \space \color{orange}deployed \space Projects}$$
+$\color[rgb]{1,0,1} Django \space Based  \space Project \space for \space checking \space the \space AQP \space index:$
 - Hosted on: https://aqp-web-production.up.railway.app/ 
 - Repo: https://github.com/ninjakx/AQP
 
-Covid Dashboard using dc.js and d3.js:
+$\color[rgb]{1,0,1} Covid \space Dashboard \space using \space DC.js \space and \space D3.js:$
 - Hosted on: https://ninjakx.github.io/covid_dash/
 - Repo: https://ninjakx.github.io/covid_dash/
 
