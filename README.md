@@ -12,6 +12,18 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 - 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
 - Currently learning DSA and system design.
 
+Some of the Active deployed Projects:
+
+Django Based Project for Checking the AQP
+- Hosted on: https://aqp-web-production.up.railway.app/ 
+- Repo: https://github.com/ninjakx/AQP
+
+Covid Dashboard using dc.js and d3.js:
+- Hosted on: https://ninjakx.github.io/covid_dash/
+- Repo: https://ninjakx.github.io/covid_dash/
+
+
+
 Gotta study harder. Need to be purrfect.
 <!-- ![](https://i.pinimg.com/originals/1b/43/dd/1b43dd19b6358ceea4a89e6a5d9cd1af.gif) | ![](https://media.tenor.com/SXGYbcjqv58AAAAd/cat-typing.gif) -->
 
