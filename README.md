@@ -22,6 +22,15 @@ $\color[rgb]{1,0,1} Covid \space Dashboard \space using \space DC.js \space and 
 - Hosted on: https://ninjakx.github.io/covid_dash/
 - Repo: https://ninjakx.github.io/covid_dash/
 
+$${\color{red}Low \space Level \space Design \space \color{lightblue}with \space \color{orange}proper \space testing}$$
+$\color[rgb]{1,0,1} Course \space Scheduler$
+- Also includes Action for unittest :-> Build is successful and all test passed. check this out: https://github.com/ninjakx/course_scheduler/actions/runs/4883417531
+- Repo: [https://github.com/ninjakx/AQP](https://github.com/ninjakx/course_scheduler)
+- Problem Statement: https://www.geektrust.com/coding/detailed/course-scheduling
+
+Rest of the Solved LLD & design pattern will be found in https://github.com/ninjakx/Low-Level-Design
+
+If get time will add more.
 
 
 Gotta study harder. Need to be purrfect.
