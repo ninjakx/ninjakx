@@ -13,17 +13,21 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 - Currently learning DSA and system design.
 
 
-$${\color{red}Some \space of \space the \space \color{lightblue}active \space \color{orange}deployed \space Projects}$$
-$\color[rgb]{1,0,1} Django \space Based  \space Project \space for \space checking \space the \space AQP \space index:$
+### Some of active deployed project 
+<!-- $${\color{red}Some \space of \space the \space \color{lightblue}active \space \color{orange}deployed \space Projects}$$ -->
+<!-- $\color[rgb]{1,0,1} Django \space Based  \space Project \space for \space checking \space the \space AQP \space index:$ -->
+**Django based project for checking the AQP index:**
 - Hosted on: https://aqp-web-production.up.railway.app/ 
 - Repo: https://github.com/ninjakx/AQP
 
-$\color[rgb]{1,0,1} Covid \space Dashboard \space using \space DC.js \space and \space D3.js:$
+<!-- $\color[rgb]{1,0,1} Covid \space Dashboard \space using \space DC.js \space and \space D3.js:$ -->
+**Dashboard using Dc.js and D3.js:**
 - Hosted on: https://ninjakx.github.io/covid_dash/
 - Repo: https://ninjakx.github.io/covid_dash/
 
-$${\color{red}Low \space Level \space Design \space \color{lightblue}with \space \color{orange}proper \space testing}$$
-$\color[rgb]{1,0,1} Course \space Scheduler$
+<!-- $${\color{red}Low \space Level \space Design \space \color{lightblue}with \space \color{orange}proper \space testing}$$
+$\color[rgb]{1,0,1} Course \space Scheduler$ -->
+**Low level design with proper unit testing:**
 - Also includes Action for unittest :-> Build is successful and all test passed. check this out: https://github.com/ninjakx/course_scheduler/actions/runs/4883417531
 - Repo: [https://github.com/ninjakx/course_scheduler](https://github.com/ninjakx/course_scheduler)
 - Problem Statement: https://www.geektrust.com/coding/detailed/course-scheduling
@@ -45,8 +49,21 @@ Motto: Work Hard, Cry Later
 
 ### Profile Summary
 
-![summary](https://github-readme-stats.vercel.app/api?username=ninjakx&show_icons=true&theme=radical)
+<details>
 
+<summary>:shipit: A Detailed Glimpse of my Profile</summary>
+     
+ ![metric](https://github.com/ninjakx/ninjakx/blob/main/github-metrics.svg)
+     
+<!-- 
+![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&repositories.forks=true&commits.authoring=ninjakx&languages=1&introduction=1&isocalendar=1&lines=1&achievements=1&stackoverflow=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories%2C%20user&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta&config.display=large) -->
+<!-- ![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&languages=1&introduction=1&gists=1&lines=1&achievements=1&pagespeed=1&stackoverflow=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fninjakx.github.io%2F&pagespeed.detailed=false&pagespeed.screenshot=true&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FKolkata&config.twemoji=true)
+ -->
+     
+</details> 
+
+<!-- 
+<!-- ![summary](https://github-readme-stats.vercel.app/api?username=ninjakx&show_icons=true&theme=radical) -->
 <!-- ![summary2](https://github-profile-trophy.vercel.app/?username=ninjakx&theme=onedark) -->
 
 <p align="left"> 
@@ -122,18 +139,6 @@ I have hard time in keeping the names in my mind. I want to automate this proces
 - Using AI to reduce the gap between parents and their kids.
 </details> -->
 
-<details>
-
-<summary>:shipit: A Detailed Glimpse of my Profile</summary>
-     
- ![metric](https://github.com/ninjakx/ninjakx/blob/main/github-metrics.svg)
-     
-<!-- 
-![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&repositories.forks=true&commits.authoring=ninjakx&languages=1&introduction=1&isocalendar=1&lines=1&achievements=1&stackoverflow=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories%2C%20user&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta&config.display=large) -->
-<!-- ![Metrics](https://metrics.lecoq.io/ninjakx?template=classic&languages=1&introduction=1&gists=1&lines=1&achievements=1&pagespeed=1&stackoverflow=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fninjakx.github.io%2F&pagespeed.detailed=false&pagespeed.screenshot=true&stackoverflow.user=6660373&stackoverflow.sections=answers-top%2C%20questions-top&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FKolkata&config.twemoji=true)
- -->
-     
-</details> 
 
 <a href="https://www.buymeacoffee.com/ninjakx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
