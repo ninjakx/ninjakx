@@ -11,6 +11,7 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 - 📫 How to reach me **kritisahu26@gmail.com**
 - 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
 - Currently learning DSA and system design.
+- Hobbies: Curating stuffs from internet, following content creators (animations, comics).
 
 
 ### Some of active deployed project 
