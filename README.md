@@ -10,9 +10,8 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 <!-- - 🌱 I’m currently learning about other Tech Stack. -->
 - 📫 How to reach me **kritisahu26@gmail.com**
 - 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
-- Currently learning DSA and system design.
-- Hobbies: Curating stuffs from internet, following content creators (animations, comics).
-
+- 🌱 Currently learning DSA and system design.
+- 📝 Hobbies: Curating stuffs from internet, following content creators (animations, comics).
 <details>
 
 <summary>:hammer_and_wrench: Some of active deployed project</summary>
@@ -84,7 +83,7 @@ Gotta study harder. Need to be purrfect.
   <a href="https://ninjakx.github.io/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
      
-<h2 align="center">  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/male-technologist_1f468-200d-1f4bb.png" height="20"> Tech Stack</h2>
+<h2 align="center">:woman_technologist: Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
