@@ -13,8 +13,10 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 - Currently learning DSA and system design.
 - Hobbies: Curating stuffs from internet, following content creators (animations, comics).
 
+<details>
 
-### Some of active deployed project 
+<summary>:hammer_and_wrench: Some of active deployed project</summary>
+
 <!-- $${\color{red}Some \space of \space the \space \color{lightblue}active \space \color{orange}deployed \space Projects}$$ -->
 <!-- $\color[rgb]{1,0,1} Django \space Based  \space Project \space for \space checking \space the \space AQP \space index:$ -->
 **Django based project for checking the AQP index:**
@@ -25,7 +27,7 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 **Dashboard using Dc.js and D3.js:**
 - Hosted on: https://ninjakx.github.io/covid_dash/
 - Repo: https://ninjakx.github.io/covid_dash/
-
+</details>
 <!-- $${\color{red}Low \space Level \space Design \space \color{lightblue}with \space \color{orange}proper \space testing}$$
 $\color[rgb]{1,0,1} Course \space Scheduler$ -->
 <!-- **Low level design with proper unit testing:**
@@ -46,7 +48,7 @@ Gotta study harder. Need to be purrfect.
   <img src="https://media.tenor.com/SXGYbcjqv58AAAAd/cat-typing.gif" width="500" height="300" /> 
 </p>
 
-Motto: Work Hard, Cry Later
+<!-- Motto: Work Hard, Cry Later -->
 
 ### Profile Summary
 
