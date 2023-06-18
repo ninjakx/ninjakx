@@ -12,6 +12,7 @@ I am Kriti, an avid learner and engineer with a passion for learning about techn
 - 💬 Ask me about anything related to pandas, sql, python, C++, machine learning and also free to discuss about anime/manga 😄
 - 🌱 Currently learning DSA and system design.
 - 📝 Hobbies: Curating stuffs from internet, following content creators (animations, comics).
+- 📍 Active on Reddit, Discord.
 <details>
 
 <summary>:hammer_and_wrench: Some of active deployed project</summary>
