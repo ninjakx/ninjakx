@@ -3,7 +3,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjakx" alt="ninjakx" /> </p>
-<img src="https://cats.bewin24.com/wp-content/uploads/2019/09/maxresdefault-40.jpg" width="270" height="200"/>
+<img src="https://github.com/ninjakx/ninjakx/assets/29797787/6b5f15ec-fe2b-45d3-964a-b661c7698429" width="220" height="200"/>
+
 I am Kriti, an avid learner and engineer with a passion for learning about technology and building an enterprise-level solution to solve real life problems. 
 
 
